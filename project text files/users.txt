@@ -1,4 +1,0 @@
-New user: b, Email: 12341
-New user: trunal, Email: tru@1234
-New user: alish, Email: ali@1234
-New user: het, Email: 1234
