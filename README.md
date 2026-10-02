@@ -138,17 +138,5 @@ java -Dfile.encoding=UTF-8 -cp bin com.burbn.ui.SocialMediaSimulatorGUI
 java -Dfile.encoding=UTF-8 -cp bin com.burbn.BurbnApplication
 ```
 
----
-
-## 📝 Resume Project Summary (Ready to Paste)
-
-> **Burbn - Social Media Feed Simulator** *(Java 17, Swing, MySQL, Custom Data Structures, Multithreading)*  
-> • Engineered a Java social media simulator implementing custom generic data structures (`CustomStack` & `CustomArrayList`) for $O(1)$ LIFO notification processing.  
-> • Developed a feed recommendation engine leveraging 2-hop graph traversal & weighted engagement metrics, along with a 24h ephemeral story system.  
-> • Designed a MySQL relational database schema supporting direct messaging, post reactions, user authentication, and real-time Aura Points gamification.  
-> • Built dual user interfaces (Swing GUI & Interactive CLI) following clean, modular layered architecture.
-
----
-
 ## 📄 License
 Distributed under the MIT License. See `LICENSE` for more information.
